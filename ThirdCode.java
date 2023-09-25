@@ -7,6 +7,7 @@ public class ThirdCode {
         }
         else{
             System.out.println("COMMON YEAR");
+            System.out.println("number");
         }
     }
 }
