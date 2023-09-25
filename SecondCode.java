@@ -5,7 +5,7 @@ public class SecondCode {
         if(number%2==0){
             System.out.println("even number");
         }else{
-            System.out.println("odd number");
+            System.out.println("Odd number");
         }
     }
 
